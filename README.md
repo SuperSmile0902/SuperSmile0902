@@ -41,15 +41,11 @@
   </a>
 </p>
 
-
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperSmile0902&show_icons=true&locale=en&layout=compact" alt="SuperSmile0902" /></p>
-</div>
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSmile0902&show_icons=true&locale=en" alt="SuperSmile0902" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSmile0902&" alt="SuperSmile0902" /></p>
 </div>
-
-
 
 <!---
 SuperSmile0902/SuperSmile0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
