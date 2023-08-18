@@ -8,10 +8,6 @@
   <img src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2014/07/header-image.png?x32616" width="600px"/>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperSmile0902" alt="SuperSmile0902" /></a> </p>
-React
-Reply
-
-8:09
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperSmile0902&show_icons=true&locale=en&layout=compact" alt="SuperSmile0902" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSmile0902&show_icons=true&locale=en" alt="SuperSmile0902" /></p>
