@@ -14,13 +14,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSmile0902&" alt="SuperSmile0902" /></p>
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
-<h3 align="left">Mobile</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
-  </a>
-</p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
