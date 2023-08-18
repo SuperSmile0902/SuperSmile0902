@@ -2,10 +2,14 @@
 - 📫 How to reach me
 - skype ID: live:.cid.bcd47be1a532bdac
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
 <p align="center">
   <img src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2014/07/header-image.png?x32616" width="600px"/>
 </p>
-
+<p align="center">
+    <a href="https://github.com/santa116"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa116&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Mobile</h3>
 <p align="left">
