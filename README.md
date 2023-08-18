@@ -10,8 +10,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperSmile0902" alt="SuperSmile0902" /></a> </p>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuperSmile0902&show_icons=true&locale=en&layout=compact" alt="SuperSmile0902" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSmile0902&show_icons=true&locale=en" alt="SuperSmile0902" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSmile0902&" alt="SuperSmile0902" /></p>
 </div>
 
 <h3 align="left">Backend</h3>
@@ -39,6 +37,13 @@
   </a>
 </p>
 
+<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Mobile</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
+  </a>
+</p>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSmile0902&" alt="SuperSmile0902" /></p>
 </div>
