@@ -5,7 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <br>
 <p align="center">
-  <img src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2014/07/header-image.png?x32616" width="600px"/>
+  <img src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2014/07/header-image.png?x32616" width="60%"/>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperSmile0902" alt="SuperSmile0902" /></a> </p>
 
