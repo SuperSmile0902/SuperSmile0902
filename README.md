@@ -5,7 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <br>
 <p align="center">
-  <img src="https://e1.pxfuel.com/desktop-wallpaper/22/404/desktop-wallpaper-a-complete-guide-to-become-a-full-stack-web-developer-in-2019-full-stack.jpg" width="70%"/>
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/22/404/desktop-wallpaper-a-complete-guide-to-become-a-full-stack-web-developer-in-2019-full-stack.jpg" width="50%"/>
 </p>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperSmile0902&row=2&column=3" alt="SuperSmile0902"  /></a> </p>
