@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://e1.pxfuel.com/desktop-wallpaper/22/404/desktop-wallpaper-a-complete-guide-to-become-a-full-stack-web-developer-in-2019-full-stack.jpg" width="60%"/>
 </p>
-<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="SuperSmile0902"  /></a> </p>
+<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)" alt="SuperSmile0902"  /></a> </p>
 
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Mobile</h3>
