@@ -25,7 +25,7 @@
 <h3 align="left">Front-end</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue,ps" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,jquery,react,sass,vue" />
   </a>
 </p>
 <h3 align="left">DataBase</h3>
@@ -37,7 +37,7 @@
 <h3 align="left">Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd,ps" />
   </a>
 </p>
 
